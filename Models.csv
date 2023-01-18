@@ -1,0 +1,10 @@
+Model,Percentage
+Logistic Regression,94.65
+Decision Tree Classifier,94.63
+Random Forest,97.08
+Linear Discriminant Analyzer,93.33
+Ada Boost,94.06
+KNN,95.99
+Support Vector Classifier,94.75
+XG Boost,96.52
+Cat Boost,96.7
